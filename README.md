@@ -11,8 +11,8 @@ This course is on the design and implementation of database management systems. 
 🖼 The course video resources can be found at [bilibili](https://www.bilibili.com/video/BV1HR4y1S7P4/?spm_id_from=333.337.search-card.all.click&vd_source=d852e5a7da2d5b6a99531e5dd2f76049)
 
 ## Homework
-🈚 The Homework section contains 5 independent homework
-- [x] [SQL]()
+🈚 The [Homework section]() contains 5 independent homework
+- [x] [SQL](https://github.com/Ouhznehc/CMU-DB/tree/main/Homework/%231-SQL)
 - [ ] Storage & Indexes
 - [ ] Query Execution
 - [ ] Distributed Databases
@@ -21,7 +21,7 @@ This course is on the design and implementation of database management systems. 
 
 ## Projects
 
-🎭 The Projects section contains 5 independent projects 
+🎭 The [Projects section](https://github.com/Ouhznehc/CMU-DB/tree/main/Project) contains 5 independent projects 
 - [x] C++ Primer
 - [ ] Buffer Pool Manager
 - [ ] B+Tree Index
